@@ -1,0 +1,165 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = COMP2139_ICE
+build_property.RootNamespace = COMP2139_ICE
+build_property.ProjectDir = /Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/ProjectTask/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdFRhc2svQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/ProjectTask/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdFRhc2svRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/ProjectTask/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdFRhc2svRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/ProjectTask/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdFRhc2svRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/ProjectTask/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdFRhc2svSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Project/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Project/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Project/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Project/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvUHJvamVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Shared/components/ProjectSummary/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvU2hhcmVkL2NvbXBvbmVudHMvUHJvamVjdFN1bW1hcnkvZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Shared/DisplayTemplates/ProjectDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvU2hhcmVkL0Rpc3BsYXlUZW1wbGF0ZXMvUHJvamVjdERlc2NyaXB0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Shared/DisplayTemplates/ProjectName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvU2hhcmVkL0Rpc3BsYXlUZW1wbGF0ZXMvUHJvamVjdE5hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/Shared/DisplayTemplates/ProjectTaskTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvU2hhcmVkL0Rpc3BsYXlUZW1wbGF0ZXMvUHJvamVjdFRhc2tUaXRsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Areas/ProjectManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUHJvamVjdE1hbmFnZW1lbnQvVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/DisplayTemplates/DateTime.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Rpc3BsYXlUZW1wbGF0ZXMvRGF0ZVRpbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL05vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lunaortega27/Desktop/5SEMESTER/comp2139/labs/lab7-w/COMP2139-ICE/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oac3h220uy
