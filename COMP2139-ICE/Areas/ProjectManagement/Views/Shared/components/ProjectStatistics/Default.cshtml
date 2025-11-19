@@ -1,0 +1,42 @@
+@*
+    Week 10 - Lab 9 ICE-2
+    File name: Default.cshtml
+    View for ProjectStatisticsViewComponent
+    Model is an int representing the total count of projects
+*@
+
+@model int
+
+<div class="card mb-4 shadow-sm">
+    <div class="card-header bg-primary text-white">
+        <h5 class="mb-0">
+            <i class="fa fa-chart-bar"></i> Project Summary
+        </h5>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="display-4 text-primary">@Model</h2>
+                <p class="lead mb-0">Total Projects</p>
+            </div>
+        </div>
+        <hr class="my-3" />
+        <div class="row text-center">
+            <div class="col-md-4">
+                <i class="fa fa-folder-open fa-2x text-info"></i>
+                <p class="mb-0 mt-2"><small>Active Projects</small></p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-tasks fa-2x text-success"></i>
+                <p class="mb-0 mt-2"><small>Total Tasks</small></p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-users fa-2x text-warning"></i>
+                <p class="mb-0 mt-2"><small>Team Members</small></p>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer text-muted text-center">
+        <small>Last updated: @DateTime.Now.ToString("MMMM dd, yyyy")</small>
+    </div>
+</div>

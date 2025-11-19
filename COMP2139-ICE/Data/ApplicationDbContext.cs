@@ -25,11 +25,36 @@ public class ApplicationDbContext : DbContext
             .HasForeignKey(t => t.ProjectId) // Foreign key in ProjectTask table
             .OnDelete(DeleteBehavior.Cascade); // Cascade delete ProjectTasks when a Project is deleted
 
-        
-        // Seeding Projects
+
+        // Seeding Projects - Lab 9 ICE-2
         modelBuilder.Entity<Project>().HasData(
-            new Project { ProjectId = 1, Name = "Assignment 1", Description = "COMP2139 Assignment 1" },
-            new Project { ProjectId = 2, Name = "Assignment 2", Description = "COMP2139 Assignment 2" }
+            new Project
+            {
+                ProjectId = 1,
+                Name = "Student Wellness Hub",
+                Description = "A web platform to help college students book wellness appointments, access mental health resources, and track their self-care habits.",
+                StartDate = new DateTime(2025, 1, 10, 0, 0, 0, DateTimeKind.Utc),
+                EndDate = new DateTime(2025, 3, 31, 0, 0, 0, DateTimeKind.Utc),
+                Status = "In Progress"
+            },
+            new Project
+            {
+                ProjectId = 2,
+                Name = "E-Commerce Platform",
+                Description = "An online shopping platform with product catalog, shopping cart, and secure checkout.",
+                StartDate = new DateTime(2025, 2, 1, 0, 0, 0, DateTimeKind.Utc),
+                EndDate = new DateTime(2025, 5, 31, 0, 0, 0, DateTimeKind.Utc),
+                Status = "New"
+            },
+            new Project
+            {
+                ProjectId = 3,
+                Name = "Task Management System",
+                Description = "A productivity tool for teams to manage tasks, track progress, and collaborate effectively.",
+                StartDate = new DateTime(2024, 11, 1, 0, 0, 0, DateTimeKind.Utc),
+                EndDate = new DateTime(2025, 1, 15, 0, 0, 0, DateTimeKind.Utc),
+                Status = "Complete"
+            }
         );
     }
 }

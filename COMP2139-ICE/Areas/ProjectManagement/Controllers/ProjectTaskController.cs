@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
-namespace COMP2139_ICE.Areas.ProjectManagement.Controller;
+namespace COMP2139_ICE.Areas.ProjectManagement.Controllers;
 [Area("ProjectManagement")]
 [Route("[area]/[controller]/[action]")]
 public class ProjectTaskController : Microsoft.AspNetCore.Mvc.Controller

@@ -4,7 +4,7 @@ using COMP2139_ICE.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace COMP2139_ICE.Areas.ProjectManagement.Components.ProjectSummary;
+namespace COMP2139_ICE.Areas.ProjectManagement.ViewComponents;
 
 public class ProjectSummaryViewComponent : ViewComponent
 {

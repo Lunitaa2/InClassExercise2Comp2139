@@ -3,7 +3,7 @@ using COMP2139_ICE.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace COMP2139_ICE.Areas.ProjectManagement.Controller;
+namespace COMP2139_ICE.Areas.ProjectManagement.Controllers;
 [Area("ProjectManagement")]
 [Route("[area]/[controller]/[action]")]
 public class ProjectController : Microsoft.AspNetCore.Mvc.Controller

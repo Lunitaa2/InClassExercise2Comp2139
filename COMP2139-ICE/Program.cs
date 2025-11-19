@@ -28,6 +28,24 @@ try
 
     var app = builder.Build();
 
+    // Lab 9 ICE-2 - Database Initialization
+    // Ensure database is created and migrations are applied
+    using (var scope = app.Services.CreateScope())
+    {
+        var services = scope.ServiceProvider;
+        try
+        {
+            var context = services.GetRequiredService<ApplicationDbContext>();
+            // Apply any pending migrations and create database if it doesn't exist
+            context.Database.Migrate();
+            Log.Information("Database migration completed successfully");
+        }
+        catch (Exception ex)
+        {
+            Log.Error(ex, "An error occurred while migrating the database");
+        }
+    }
+
     // Configure the HTTP request pipeline.
     if (!app.Environment.IsDevelopment())
     {
@@ -46,7 +64,7 @@ try
 
     app.MapControllerRoute(
         name: "areas",
-        pattern: "{area:exists}/{controller=Projects}/{action=Index}/{id?}");
+        pattern: "{area:exists}/{controller=Project}/{action=Index}/{id?}");
 
     app.MapControllerRoute(
         name: "default",
