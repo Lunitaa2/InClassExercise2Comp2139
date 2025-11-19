@@ -1,10 +1,48 @@
-﻿@{
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    <p>COMP2139 Labs Home Page</p>
-    <p>This is new content</p>
+    <h1 class="display-4">Welcome to COMP2139 ICE-2</h1>
+    <p class="lead">Project Management System - Lab 9</p>
+
+    <div class="my-5">
+        <a asp-area="ProjectManagement" asp-controller="Project" asp-action="Index" class="btn btn-primary btn-lg">
+            <i class="fa fa-briefcase"></i> View All Projects
+        </a>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fa fa-folder-open text-primary"></i> Projects</h5>
+                    <p class="card-text">Manage your projects, view details, and track progress.</p>
+                    <a asp-area="ProjectManagement" asp-controller="Project" asp-action="Index" class="btn btn-outline-primary">Go to Projects</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fa fa-tasks text-success"></i> Tasks</h5>
+                    <p class="card-text">Create and manage tasks for your projects.</p>
+                    <a asp-area="ProjectManagement" asp-controller="ProjectTask" asp-action="Index" class="btn btn-outline-success">View Tasks</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title"><i class="fa fa-info-circle text-info"></i> About</h5>
+                    <p class="card-text">Learn more about this application and its features.</p>
+                    <a asp-controller="Home" asp-action="About" class="btn btn-outline-info">About</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        <p class="text-muted">COMP2139 Labs - Luna Ortega</p>
+    </div>
 </div>

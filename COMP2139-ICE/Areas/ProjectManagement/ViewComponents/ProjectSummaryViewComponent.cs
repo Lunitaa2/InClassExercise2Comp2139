@@ -1,5 +1,6 @@
 //Week 10 - Lab 8
 //file name - ProjectSummaryViewComponent.cs
+using COMP2139_ICE.Areas.ProjectManagement.Models;
 using COMP2139_ICE.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
